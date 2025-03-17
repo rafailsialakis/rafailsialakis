@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rafail</h1>
+<h1 align="center">Hi, I'm Rafail</h1>
 <h3 align="center">A Computer Science Student and a Cybersecurity enthusiast</h3>
 
 - 🔭 I’m currently studying on **University of Macedonia**
 
-- I'm currently learning **Java, Python, C**
-
-- I'm practicing **Modern Cryptography and Reverse Engineering**
+- I'm currently learning **C++**
 
 - 📫 How to reach me **rafailsiala@gmail.com**
 
