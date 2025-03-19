@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafailsialakis&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafailsialakis&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafailsialakis&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
